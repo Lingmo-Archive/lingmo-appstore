@@ -1,5 +1,5 @@
 project('lingmo-appstore', 'c',
-  version : '0.5',
+  version : '3.0.1',
   license : 'GPL-2.0-or-later',
   default_options : ['warning_level=1', 'c_std=c11'],
   meson_version : '>=0.58.0'
